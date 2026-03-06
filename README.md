@@ -115,15 +115,6 @@ Delivered end-to-end software and web solutions for diverse clients, focusing on
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuppan4109&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuppan4109&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
-
 <p align="center">
   <i>"Turning raw data into intelligent systems aligned with business goals."</i><br><br>
   <a href="https://kuppan4109.github.io/kuppan-portfolio/">🌐 Portfolio</a> &nbsp;|&nbsp;
