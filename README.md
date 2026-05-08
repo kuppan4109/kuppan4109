@@ -50,7 +50,7 @@ I bring a mix of **technical depth and product intuition** — whether it's opti
 
 ## 💼 Work Experience
 
-### 🏢 AI & Data Analytics Intern — *Maple Direct* (2025 – Present)
+### 🏢 AI & Data Analytics Intern — *Maple Direct* (2025 – 2026)
 Assisting in the development of AI-driven insights and analytics pipelines to support data-informed marketing and business strategies.
 
 ### 🏢 Data Engineer — *Ducen, an Orion Innovation Company* (2020 – 2024)
